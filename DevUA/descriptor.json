@@ -1,0 +1,19 @@
+﻿{
+  "Descriptor": {
+    "UId": "63caefed-ba9e-086f-ab29-a485865f207e",
+    "PackageVersion": "8.0.4",
+    "Name": "DevUA",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1663678287000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevUA.csproj",
+    "Description": "demo package for guided learning in UA region",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
