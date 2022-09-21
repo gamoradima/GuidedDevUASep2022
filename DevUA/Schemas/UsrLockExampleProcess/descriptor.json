@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "76e6bb18-bf38-4981-b61c-2e87d44dfb07",
     "Name": "UsrLockExampleProcess",
-    "ModifiedOnUtc": "\/Date(1663759720000)\/",
+    "ModifiedOnUtc": "\/Date(1663761480000)\/",
     "ManagerName": "ProcessSchemaManager",
     "Caption": "UsrLockExampleProcess",
     "DependsOn": []
