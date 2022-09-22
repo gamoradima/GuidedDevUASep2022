@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Нерухомість" />
+			<Item Name="Columns.UsrArea.Caption" Value="Площа, м2" />
+			<Item Name="Columns.UsrComment.Caption" Value="Коментар" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrOfferType.Caption" Value="Тип пропозиції" />
+			<Item Name="Columns.UsrPriceUSD.Caption" Value="Ціна, USD" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бізнес-процес" />
+		</Items>
+	</Group>
+</Resources>

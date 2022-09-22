@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тег в записі розділу Нерухомість" />
+			<Item Name="Columns.Entity.Caption" Value="Нерухомість" />
+			<Item Name="Columns.Tag.Caption" Value="Тег розділу Нерухомість" />
+		</Items>
+	</Group>
+</Resources>
