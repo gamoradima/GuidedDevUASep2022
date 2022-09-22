@@ -1,0 +1,99 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "1018869f-ede6-4115-b32a-353a6ac7e673"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "4. Земельна ділянка"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "414b7856-5d49-4d37-978d-de37b4256e0f"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "1. Квартира"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "6f944144-6e67-4e33-914d-b39a7e582c67"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "2. Приватний будинок"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "83254666-2145-4453-a3c1-ec285c704d68"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "5. Паркувальне місце"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "ae3c6a77-fe73-441f-94f4-749be166620d"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "3. Офіс"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

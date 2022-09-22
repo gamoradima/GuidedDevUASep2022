@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тип нерухомості" />
+			<Item Name="Columns.UsrFloat2.Caption" Value="Дробове число 2" />
+			<Item Name="Columns.UsrMoney.Caption" Value="Гроші (тест)" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бізнес-процес" />
+		</Items>
+	</Group>
+</Resources>
