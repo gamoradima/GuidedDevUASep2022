@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Перегляд нерухомості" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Перегляд нерухомості" />
+			<Item Name="LocalizableStrings.LOOKUPfc03bf1755944f13b1d6a949ded52627Tip.Value" Value="Цей клієнт може бути дуже важливим. Приділить йому максимальну увагу!" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема деталі: &quot;Перегляди нерухомості&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Перегляди нерухомості" />
+		</Items>
+	</Group>
+</Resources>

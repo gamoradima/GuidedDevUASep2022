@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b73c9e7-4c5b-40a1-bb3e-eb0023b3fd14",
+    "Name": "UsrRealtyVisitPage",
+    "ModifiedOnUtc": "\/Date(1664197042000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Перегляд нерухомості"
+  }
+}

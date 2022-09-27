@@ -3,6 +3,11 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Сторінка редагування: &quot;Нерухомість&quot;" />
+			<Item Name="LocalizableStrings.CommissionCaption.Value" Value="Комісія, USD" />
+			<Item Name="LocalizableStrings.MyButtonCaption.Value" Value="пыщь!" />
+			<Item Name="LocalizableStrings.TabPereglyadTabCaption.Value" Value="Перегляди" />
+			<Item Name="LocalizableStrings.UsrSchema7d6e948fDetail4d6ed224DetailCaptionOnPage.Value" Value="Перегляд нерухомості" />
+			<Item Name="LocalizableStrings.ValueMustBeGreaterThanZero.Value" Value="Значення повинно бути більше 0" />
 		</Items>
 	</Group>
 </Resources>

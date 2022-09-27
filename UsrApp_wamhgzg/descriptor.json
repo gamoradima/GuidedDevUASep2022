@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "393d891c-fd0f-4531-9a13-26aa9f214d58",
+    "Name": "UsrApp_wamhgzg",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_wamhgzg.csproj",
+    "DependsOn": []
+  }
+}

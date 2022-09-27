@@ -1,0 +1,46 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f0ea9715-8757-474c-aee9-743d672e48c9"
+        },
+        {
+          "SchemaColumnUId": "08419b1c-0aec-49ab-9229-ecc7c42b6279",
+          "Value": "e35e61ef-cc32-4a97-b98c-52473e35ce60",
+          "DisplayValue": "Українська (Україна)"
+        },
+        {
+          "SchemaColumnUId": "3902b321-877b-464f-a0a9-563b9eec78ed",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "46bd9122-9f52-4b8a-930b-f1b9d5b21b1a",
+          "Value": 22
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "uk-UA"
+        },
+        {
+          "SchemaColumnUId": "88a9958c-6878-4adb-b534-d894dda3c7e8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "cb8ceccd-8515-47d9-87ed-5dcb1249571d",
+          "Value": "da780a5d-976b-4c39-aabb-f29e675f7ce1",
+          "DisplayValue": "uk-UA_CultureFlagsss.png"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1513636742953+0200)\/"
+        }
+      ]
+    }
+  ]
+}

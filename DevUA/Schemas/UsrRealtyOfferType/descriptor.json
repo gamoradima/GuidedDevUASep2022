@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "9534eb01-0489-4251-b946-f951ecb26fab",
     "Name": "UsrRealtyOfferType",
-    "ModifiedOnUtc": "\/Date(1663851388000)\/",
+    "ModifiedOnUtc": "\/Date(1664278667000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"

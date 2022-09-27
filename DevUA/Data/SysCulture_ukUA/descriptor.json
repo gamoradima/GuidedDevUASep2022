@@ -1,0 +1,77 @@
+﻿{
+  "Descriptor": {
+    "UId": "7dd8c0e9-2e46-cf08-4d67-02746fa4feef",
+    "Name": "SysCulture_ukUA",
+    "ModifiedOnUtc": "\/Date(1664219246000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "ffc193e1-04bc-472b-bdc0-3333d1df84e4",
+      "Name": "SysCulture"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "3902b321-877b-464f-a0a9-563b9eec78ed",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Default",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "cb8ceccd-8515-47d9-87ed-5dcb1249571d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Image",
+        "DataTypeValueUId": "b039feb0-ee7c-4884-8aa6-d6d45d84316f"
+      },
+      {
+        "ColumnUId": "88a9958c-6878-4adb-b534-d894dda3c7e8",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Active",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "46bd9122-9f52-4b8a-930b-f1b9d5b21b1a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Index",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "08419b1c-0aec-49ab-9229-ecc7c42b6279",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Language",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}
