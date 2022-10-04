@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.AccountsChangedMessage.Value" Value="수정된 계정: {1}개 중 {0}개" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="중복된 '{0}' 표시" />
+			<Item Name="LocalizableStrings.FillAccountWithSocialNetworksDataActionCaption.Value" Value="소셜 네트워크 데이터로 업데이트" />
+			<Item Name="LocalizableStrings.SetPriceListActionCaption.Value" Value="가격 리스트 설정" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="피드를 따라" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="피드 팔로우 해제" />
+		</Items>
+	</Group>
+</Resources>

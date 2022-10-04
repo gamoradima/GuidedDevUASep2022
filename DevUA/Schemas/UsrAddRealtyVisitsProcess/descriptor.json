@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "917f2dcf-7f9d-4e19-b3d5-9a4aec9fdcf5",
+    "Name": "UsrAddRealtyVisitsProcess",
+    "ModifiedOnUtc": "\/Date(1664365977000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Додати перегляди до нерухомості",
+    "DependsOn": []
+  }
+}

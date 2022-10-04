@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "98da7c14-f1cb-4ca0-ad11-088b9a191106",
+    "Name": "UsrDecimalOutputPage",
+    "ModifiedOnUtc": "\/Date(1664452305000)\/",
+    "Parent": {
+      "UId": "21620f25-166f-42f1-8b4d-224a959040a3",
+      "Name": "BasePageProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Сторінка для показа дробового результату"
+  }
+}

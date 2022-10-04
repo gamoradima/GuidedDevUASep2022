@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "fe71ba3e-2a6b-4f37-a70c-f82a194aaded",
+    "Name": "UsrAutoIncrementRealtyNumberProcess",
+    "ModifiedOnUtc": "\/Date(1664537743000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бізнес-процес 1",
+    "DependsOn": []
+  }
+}

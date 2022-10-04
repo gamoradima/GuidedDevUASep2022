@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.StartSignal1.Caption" Value="створена нерухомість" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Унікальний ідентифікатор запису" />
+			<Item Name="Caption" Value="Бізнес-процес 1" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляра процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Назва процесу#]" />
+		</Items>
+	</Group>
+</Resources>

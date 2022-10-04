@@ -1,0 +1,30 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9b7f522a-9016-4c59-8ce3-ec47625de90d"
+        },
+        {
+          "SchemaColumnUId": "4d5be702-fa8a-4b6b-97d0-f666b99f108e",
+          "Value": "eyJjbGFzc05hbWUiOiJUZXJyYXNvZnQuRmlsdGVyR3JvdXAiLCJpdGVtcyI6eyIxMzA3YmJhMC03ZmM5LTRhYWItODJhMy1mNGE0Mzc4NDU0MDgiOnsiY2xhc3NOYW1lIjoiVGVycmFzb2Z0LkNvbXBhcmVGaWx0ZXIiLCJmaWx0ZXJUeXBlIjoxLCJjb21wYXJpc29uVHlwZSI6OCwiaXNFbmFibGVkIjp0cnVlLCJ0cmltRGF0ZVRpbWVQYXJhbWV0ZXJUb0RhdGUiOmZhbHNlLCJsZWZ0RXhwcmVzc2lvbiI6eyJjbGFzc05hbWUiOiJUZXJyYXNvZnQuQWdncmVnYXRpb25RdWVyeUV4cHJlc3Npb24iLCJleHByZXNzaW9uVHlwZSI6MywiZnVuY3Rpb25UeXBlIjoyLCJhZ2dyZWdhdGlvblR5cGUiOjEsImNvbHVtblBhdGgiOiJbVXNyUmVhbHR5VmlzaXQ6VXNyUGFyZW50UmVhbHR5XS5JZCIsInN1YkZpbHRlcnMiOnsiY2xhc3NOYW1lIjoiVGVycmFzb2Z0LkZpbHRlckdyb3VwIiwiaXRlbXMiOnt9LCJsb2dpY2FsT3BlcmF0aW9uIjowLCJpc0VuYWJsZWQiOnRydWUsImZpbHRlclR5cGUiOjYsInJvb3RTY2hlbWFOYW1lIjoiVXNyUmVhbHR5VmlzaXQiLCJrZXkiOiJjOTBlY2UyNC1kMTY1LTQwNTAtYmZhNC1lNjU0M2QzZjg5NzAifX0sImlzQWdncmVnYXRpdmUiOnRydWUsImtleSI6IjEzMDdiYmEwLTdmYzktNGFhYi04MmEzLWY0YTQzNzg0NTQwOCIsImRhdGFWYWx1ZVR5cGUiOjQsImxlZnRFeHByZXNzaW9uQ2FwdGlvbiI6ItCf0LXRgNC10LPQu9GP0LQg0L3QtdGA0YPRhdC+0LzQvtGB0YLRliAo0L/QviDQutC+0LvQvtC90YbRliDQkdCw0YLRjNC60ZbQstGB0YzQutCwINC90LXRgNGD0YXQvtC80ZbRgdGC0YwpIiwicmlnaHRFeHByZXNzaW9uIjp7ImNsYXNzTmFtZSI6IlRlcnJhc29mdC5QYXJhbWV0ZXJFeHByZXNzaW9uIiwiZXhwcmVzc2lvblR5cGUiOjIsInBhcmFtZXRlciI6eyJjbGFzc05hbWUiOiJUZXJyYXNvZnQuUGFyYW1ldGVyIiwiZGF0YVZhbHVlVHlwZSI6NCwidmFsdWUiOjJ9fSwic3ViRmlsdGVycyI6eyJjbGFzc05hbWUiOiJUZXJyYXNvZnQuRmlsdGVyR3JvdXAiLCJpdGVtcyI6e30sImxvZ2ljYWxPcGVyYXRpb24iOjAsImlzRW5hYmxlZCI6dHJ1ZSwiZmlsdGVyVHlwZSI6Niwicm9vdFNjaGVtYU5hbWUiOiJVc3JSZWFsdHlWaXNpdCIsImtleSI6ImM5MGVjZTI0LWQxNjUtNDA1MC1iZmE0LWU2NTQzZDNmODk3MCJ9fX0sImxvZ2ljYWxPcGVyYXRpb24iOjAsImlzRW5hYmxlZCI6dHJ1ZSwiZmlsdGVyVHlwZSI6Niwicm9vdFNjaGVtYU5hbWUiOiJVc3JSZWFsdHkiLCJrZXkiOiIifQ=="
+        },
+        {
+          "SchemaColumnUId": "527b9e4e-7dbf-4721-a112-72b423b3365a",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "7194c633-a5a9-48cf-a96c-d8b548878b2f",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "e44c8807-bc0e-4415-b41c-2272c8fbdf42",
+          "Value": "65ca0946-0084-4874-b117-c13199af3b95",
+          "DisplayValue": "Dynamic"
+        }
+      ]
+    }
+  ]
+}

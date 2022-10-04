@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Gold rate" />
+			<Item Name="Columns.UsrRate.Caption" Value="Ціна, AMD" />
+			<Item Name="Columns.UsrWeight.Caption" Value="Вага, г" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бізнес-процес" />
+		</Items>
+	</Group>
+</Resources>

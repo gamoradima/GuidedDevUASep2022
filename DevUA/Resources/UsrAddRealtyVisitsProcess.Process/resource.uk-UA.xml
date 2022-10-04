@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="додати перегляд 1" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фільтри джерела даних" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Об'єкт" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Об'єкт вибірки" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Режим додавання записів" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Значення полів" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.474284cc-50e5-4464-af6e-2f590e7182e3.displayValue" Value="автоматично додано з процесу" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.474284cc-50e5-4464-af6e-2f590e7182e3.value" Value="автоматично додано з процесу" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Id створеного запису" />
+			<Item Name="BaseElements.AddDataUserTask2.Caption" Value="додати перегляд 2" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Фільтри джерела даних" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.EntitySchemaId.Caption" Value="Об'єкт" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.FilterEntitySchemaId.Caption" Value="Об'єкт вибірки" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordAddMode.Caption" Value="Режим додавання записів" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.Caption" Value="Значення полів" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.Value.474284cc-50e5-4464-af6e-2f590e7182e3.displayValue" Value="автоматично додано з процесу" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.Value.474284cc-50e5-4464-af6e-2f590e7182e3.value" Value="автоматично додано з процесу" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordId.Caption" Value="Id створеного запису" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="send websocket message" />
+			<Item Name="Caption" Value="Додати перегляди до нерухомості" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляра процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Назва процесу#]" />
+			<Item Name="Parameters.RealtyIdParameter.Caption" Value="Realty Id" />
+		</Items>
+	</Group>
+</Resources>

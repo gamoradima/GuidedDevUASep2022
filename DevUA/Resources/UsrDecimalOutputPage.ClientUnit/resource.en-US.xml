@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сторінка для показа дробового результату" />
+			<Item Name="LocalizableStrings.Button1ButtonCaption.Value" Value="Кнопка 1" />
+			<Item Name="LocalizableStrings.Button2ButtonCaption.Value" Value="Кнопка 2" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.1efa815a-a9f1-4007-a01d-953b268bd52c.Caption" Value="Кнопка 1" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.94a442f8-5030-4a49-9058-b3545bdf2d3e.Caption" Value="Кнопка 2" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрити" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Зберегти" />
+			<Item Name="Parameters.da231097-e58c-4f0b-a3a5-4cc8dd0d5d5f.Caption" Value="Середня ціна, USD/кв. м" />
+		</Items>
+	</Group>
+</Resources>

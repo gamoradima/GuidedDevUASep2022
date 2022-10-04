@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UsrRealtyEventListener" />
+			<Item Name="LocalizableStrings.ValueIsTooBig.Value" Value="Значення занадто велике. Не дозволяється вводити більше за {0}." />
+		</Items>
+	</Group>
+</Resources>

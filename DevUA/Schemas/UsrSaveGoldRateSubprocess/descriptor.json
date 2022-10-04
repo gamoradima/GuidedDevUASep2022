@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb18b40c-1cb9-4778-a857-4426b93b3e82",
+    "Name": "UsrSaveGoldRateSubprocess",
+    "ModifiedOnUtc": "\/Date(1664796522000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Зберегти запис курса золота (підпроцес)",
+    "DependsOn": []
+  }
+}
